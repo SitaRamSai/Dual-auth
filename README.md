@@ -2,7 +2,7 @@
 dual auth is responsible to serve APIs internally also act as external API
 
 
-#Run server
+# Run server
 
 pip3 install -r requirments.txt
 
