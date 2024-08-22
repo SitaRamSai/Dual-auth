@@ -12,5 +12,7 @@ python3 app.py
 # Run React
 
 cd react-frontend
+
 npm install
+
 npm start
